@@ -1,0 +1,9 @@
+{
+    "pack": {
+        "description": "JukeBlocks - Ein Minecraft Podcast mit EinfachGustaf",
+        "pack_format": 34,
+        "min_format": 34,
+        "max_format": 90,
+        "supported_formats": [34, 90]
+    }
+}
